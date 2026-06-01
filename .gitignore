@@ -5,7 +5,7 @@ __pycache__/
 .Python
 .venv/
 venv/
-env/
+/env/
 .uv/
 uv.lock
 .env
