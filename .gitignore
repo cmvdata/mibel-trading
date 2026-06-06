@@ -33,3 +33,5 @@ notebooks/scratch/
 *.pkl
 *.parquet
 !**/test_*.parquet
+artifacts/
+*.zip
