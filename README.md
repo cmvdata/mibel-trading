@@ -39,11 +39,12 @@ src/mibel_trading/
 | Pieza | Estado |
 |---|---|
 | 0. Scaffold + CI | ✅ |
-| 1. Gymnasium env + data loaders | 🔄 |
-| 2. Rule-based strategy DAM→ajuste | ⏳ |
-| 3. Benchmarks BENCHVWAP/BENCH/BENCHPLUS | ⏳ |
-| 4. PPO agent + behaviour cloning | ⏳ |
-| 5. Walk-forward evaluation + report | ⏳ |
+| 1. Gymnasium env + data loaders | ✅ |
+| 2. Rule-based strategy DAM→ajuste | ✅ |
+| 3. Benchmarks BENCHVWAP/BENCH/BENCHPLUS | ✅ |
+| 4. PPO agent + behaviour cloning | ✅ |
+| 5. Walk-forward evaluation + report | ✅ |
+| 6. Production training on real data (GPU pod) | ⏳ |
 
 ## Limitaciones declaradas
 
